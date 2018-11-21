@@ -28,10 +28,3 @@ Users control features:
     ```
 
   - Go to http://localhost:8080 to check out User Control component.
-
-## Running tests
-
-  - Run following command from project root directory
-    ```
-    npm test
-    ```
